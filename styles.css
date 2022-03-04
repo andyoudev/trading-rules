@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.row {
+  padding: 5%;
+  margin: 2%;
+}
+
+.my-box {
+  padding: 5% 3% 5% 3%;
+  background-color: #EEEEEE;
+}
